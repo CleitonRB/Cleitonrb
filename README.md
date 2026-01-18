@@ -26,8 +26,8 @@ SQL(MySQL, PostgreSQL) | NoSQL(MongoDB)
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CleitonRB&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonRB&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CleitonRB&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonRB&layout=compact&theme=github_dark)  
 
 <!--
 **CleitonRB/Cleitonrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
