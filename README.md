@@ -30,7 +30,7 @@ Git | GitHub
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CleitonRB&show_icons=true&theme=github_dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CleitonRB&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleitonRB&layout=compact&theme=github_dark)  
 
 <!--
