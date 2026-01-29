@@ -2,7 +2,7 @@
 
 **`🎓 Estudante de Engenharia de Software`**   
 
-Apaixonado por tecnologia, games, lógica e resolução de problemas, sempre em busca de aprendizado e evolução contínua. 
+Apaixonado por tecnologia, games, lógica e resolução de problemas, sempre em busca de aprendizado e evolução contínua 🚀. 
 
 ## 🧠 Conhecimentos
 
